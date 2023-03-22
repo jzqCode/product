@@ -1,11 +1,11 @@
 {
-    "name": "goods_list",
-    "short_name": "goods_list",
+    "name": "商品列表",
+    "short_name": "商品列表",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "商品",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
